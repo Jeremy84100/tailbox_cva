@@ -1,0 +1,18 @@
+{
+  "Title": "Tailbox CVA",
+  "Type": "library",
+  "Org": "agelaste",
+  "Ident": "tailbox_cva",
+  "Schema": 44,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Mounts": null,
+  "IsStandaloneOnly": false,
+  "Metadata": {
+    "Tags": "tailwind tailbox cva ui styling variants design",
+    "Description": "Professional variant management for Tailbox on s&box. Inspired by class-variance-authority (CVA).",
+    "Category": "Tools"
+  }
+}

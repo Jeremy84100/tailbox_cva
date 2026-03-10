@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Editor": {
+      "commandName": "Executable",
+      "executablePath": "../../../../../../../../Program Files (x86)/Steam/steamapps/common/sbox/sbox-dev.exe",
+      "commandLineArgs": "-project \u0022C:\\Users\\bourr\\Documents\\VS CODE\\S\u0026BOX\\tailbox_cva\\tailbox_cva.sbproj\u0022"
+    }
+  }
+}
