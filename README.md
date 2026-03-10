@@ -3,7 +3,7 @@
 High-performance, zero-allocation variant management for s&box UI, inspired by `class-variance-authority` (CVA).
 
 [![s&box Package](https://img.shields.io/badge/s&box-Package-blue.svg)](https://sbox.game/agelaste/tailbox_cva)
-[![GitHub Project](https://img.shields.io/badge/GitHub-Project-lightgrey.svg)](https://github.com/Jeremy84100/tailbox_cva)
+[![GitHub Project](https://img.shields.io/badge/GitHub-Project-lightgrey?logo=github)](https://github.com/Jeremy84100/tailbox_cva)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## About
